@@ -1,6 +1,6 @@
 .card {
-	padding-bottom: 30px;
-	margin: 30px auto 10px;
+	padding: 30px;
+	margin: 10px auto 10px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -67,7 +67,7 @@
 	}
 }
 hr {
-	max-width: 1200px;
+	max-width: 50%;
 	border: none;
 	border-top: 1px solid #a8a7ad;
 }

@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default [
 	{
 		id: 1,
@@ -33,5 +34,17 @@ export default [
 		description:
 			"The Geiranger Fjord is a fjord in the Sunnmore region of More og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
 		imageUrl: "norway-fjord.jpg",
+	},
+
+	{
+		id: 4,
+		title: "Tokyo city center",
+		location: "Japan",
+		googleMapsUrl: "https://goo.gl/maps/pwPDob4bXFF63vkQ8",
+		startDate: "22 Nov, 2021",
+		endDate: "01 Dec, 2021",
+		description:
+			"Tokyo (Japanese: 東京, Tōkyō, officially the Tokyo Metropolis (Japanese: 東京都, Tōkyō-to), is the capital and most populous prefecture of Japan. Located at the head of Tokyo Bay, the prefecture forms part of the Kantō region on the central Pacific coast of Japan's main island of Honshu.",
+		imageUrl: "tokyo.jpg",
 	},
 ];
